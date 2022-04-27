@@ -1,6 +1,6 @@
 package com.company;
 
-public class TestJava2 {
+public class Caojj {
 
     public static void main(String[] args) {
 	// write your code here
